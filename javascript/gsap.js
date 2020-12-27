@@ -1,0 +1,10 @@
+gsap.from('nav', {opacity:0, duration:3, y:-50});
+gsap.from('img', {opacity:0, duration:1, y:50, delay:2.6});
+gsap.from('h1', {opacity:0, duration:1, x:-50, delay:4.8});
+gsap.from('p', {opacity:0, duration:1, z:-50, delay:6.9});
+gsap.from('button', {opacity:0, duration:1, x:50, delay:8.9});
+gsap.from('span', {opacity:0, duration:1, z:50, delay:9.9});
+gsap.from('.jsdhjhdf', {opacity:0, duration:1, z:50, delay:10.3});
+gsap.from('.jskd', {opacity:0, duration:1, x:-80, delay:11.3});
+gsap.from('.line1a', {opacity:0, duration:1, x:-80, delay:13.3});
+gsap.from('.ksjif', {opacity:0, duration:1, z:80, delay:14.3});
